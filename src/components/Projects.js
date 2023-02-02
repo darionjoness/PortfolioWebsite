@@ -16,28 +16,28 @@ const Projects = ({ activeTab }) => {
         <div className="jsProject">
           <img src={disneyPlusRebuild} alt="" />
           <div className="projectsBtns">
-            <a target={'_blank'} href="https://velvety-rabanadas-e52e99.netlify.app/">Disney Plus Rebuild</a>
+            <a target={'_blank'} href="https://disneyplusrebuild.netlify.app">Disney Plus Rebuild</a>
             <a target={'_blank'} href="https://github.com/darionjoness/DisneyPlus-Rebuild">Github</a> 
           </div>
         </div>
         <div className="jsProject">
           <img src={tipCalcApp} alt="" />
           <div className="projectsBtns">
-            <a target={'_blank'} href='https://zesty-sprite-3fc2c9.netlify.app/'>Tip Calculator App</a>
+            <a target={'_blank'} href='https://calctipapp.netlify.app'>Tip Calculator App</a>
             <a target={'_blank'} href="https://github.com/darionjoness/TipCalcApp">Github</a>
           </div>
         </div>
         <div className="jsProject">
           <img src={sqFtPriceCalc} alt="" />
           <div className="projectsBtns">
-            <a target={'_blank'} href='https://nimble-biscochitos-2d27cf.netlify.app/'>Square Foot Price Calculator</a>
+            <a target={'_blank'} href='https://sqftpriceapp.netlify.app'>Square Foot Price Calculator</a>
             <a target={'_blank'} href="https://github.com/darionjoness/SquareFootPriceCalc">Github</a>
           </div>
         </div>
         <div className="jsProject">
           <img src={monsterMaker} alt="" />
           <div className="projectsBtns">
-            <a target={'_blank'} href='https://capable-fox-1f5bec.netlify.app'>Monster Maker</a>
+            <a target={'_blank'} href='https://monstermaker.netlify.app'>Monster Maker</a>
             <a target={'_blank'} href="https://github.com/darionjoness/MonsterMaker">Github</a>
           </div>
         </div>
@@ -48,28 +48,28 @@ const Projects = ({ activeTab }) => {
         <div className="reactProject">
           <img src={volcanoeTracker} alt="" />
           <div className="projectsBtns">
-            <a target={'_blank'} href="https://fancy-narwhal-2e6a4e.netlify.app">Volcanoe Tracker</a>
+            <a target={'_blank'} href="https://volcanoetracker.netlify.app">Volcanoe Tracker</a>
             <a target={'_blank'} href="https://github.com/darionjoness/VolcanoeTracker">Github</a>
           </div>
         </div>
         <div className="reactProject">
           <img src={reactToDoList} alt="" />
           <div className="projectsBtns">
-            <a target={'_blank'} href="https://incomparable-cajeta-ee16a6.netlify.app/">To Do List</a>
+            <a target={'_blank'} href="https://darionstodo.netlify.app">To Do List</a>
             <a target={'_blank'} href="https://github.com/darionjoness/ReactToDoList">Github</a>
           </div>
         </div>
         <div className="reactProject">
           <img src={quizApp} alt="" />
           <div className="projectsBtns">
-            <a target={'_blank'} href="https://steady-banoffee-0f730c.netlify.app">Quiz App</a>
+            <a target={'_blank'} href="https://cartoonquizapp.netlify.app">Quiz App</a>
             <a target={'_blank'} href="https://github.com/darionjoness/ReactQuiz">Github</a>
           </div>
         </div>
         <div className="reactProject">
           <img src={emojiSearch} alt="" />
           <div className="projectsBtns">
-            <a target={'_blank'} href="https://venerable-lollipop-9da6b7.netlify.app">Emoji Search</a>
+            <a target={'_blank'} href="https://searchemojis.netlify.app">Emoji Search</a>
             <a target={'_blank'} href="https://github.com/darionjoness/EmojiSearch">Github</a>
           </div>
         </div>
