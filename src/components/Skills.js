@@ -17,6 +17,9 @@ const Skills = ({ activeTab }) => {
             <div className="skillItem">
                 <h2>React</h2>
             </div>
+            <div className="skillItem">
+                <h2>Git</h2>
+            </div>
         </div>
     </div>
   )
