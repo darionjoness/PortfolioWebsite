@@ -7,6 +7,7 @@ import reactToDoList from './img/reactToDoList.png'
 import quizApp from './img/quizApp.png'
 import emojiSearch from './img/emojiSearch.png'
 import monsterMaker from './img/monsterMaker.png'
+import jungleJump from './img/jungleJump.png'
 
 const Projects = ({ activeTab }) => {
   return (
@@ -28,10 +29,10 @@ const Projects = ({ activeTab }) => {
           </div>
         </div>
         <div className="jsProject">
-          <img src={sqFtPriceCalc} alt="" />
+          <img src={jungleJump} alt="" />
           <div className="projectsBtns">
-            <a target={'_blank'} href='https://sqftpriceapp.netlify.app'>Square Foot Price Calculator</a>
-            <a target={'_blank'} href="https://github.com/darionjoness/SquareFootPriceCalc">Github</a>
+            <a target={'_blank'} href='https://junglejumpp.netlify.app/'>Jungle Jump Game</a>
+            <a target={'_blank'} href="https://github.com/darionjoness/JungleJump">Github</a>
           </div>
         </div>
         <div className="jsProject">

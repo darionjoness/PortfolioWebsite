@@ -12,6 +12,9 @@ const Skills = ({ activeTab }) => {
                 <h2>CSS</h2>
             </div>
             <div className="skillItem">
+                <h2>Bootstrap</h2>
+            </div>
+            <div className="skillItem">
                 <h2>Javascript</h2>
             </div>
             <div className="skillItem">
