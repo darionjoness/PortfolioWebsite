@@ -13,7 +13,7 @@
 }
 
 body{
-  background-color: lightgray;
+  background-color: #d8ebdd;
   font-family: 'Poppins', sans-serif;
 }
 
@@ -219,7 +219,7 @@ a{
   height: 200px;
   border-radius: 100px;
   bottom: 0;
-  right: -50px;
+  left: -50px;
 }
 
 .bubble {
@@ -292,6 +292,7 @@ a{
   margin: 10px 20px;
   background-color: #fff;
   box-shadow: 0 0 15px 0 rgba(0, 0, 0, 0.2);
+  border-radius: 5px;
 }
 
 .jsProject img{
@@ -322,6 +323,7 @@ a{
   margin: 10px 20px;
   background-color: #fff;
   box-shadow: 0 0 15px 0 rgba(0, 0, 0, 0.2);
+  border-radius: 5px;
 }
 
 .reactProject img{
