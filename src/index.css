@@ -13,7 +13,7 @@
 }
 
 body{
-  background-color: #d8ebdd;
+  background-color: lightgray;
   font-family: 'Poppins', sans-serif;
 }
 
@@ -220,6 +220,7 @@ a{
   border-radius: 100px;
   bottom: 0;
   left: -50px;
+  box-shadow: 0 0 12px 0 rgba(0, 0, 0, 0.2);
 }
 
 .bubble {
@@ -235,6 +236,7 @@ a{
   color: #f4f4f4;
   top: 20px;
   right: -200px;
+  box-shadow: 0 0 12px 0 rgba(0, 0, 0, 0.2);
 }
 
 .bubble-bottom-left:before {
