@@ -8,6 +8,7 @@ import quizApp from './img/quizApp.png'
 import emojiSearch from './img/emojiSearch.png'
 import monsterMaker from './img/monsterMaker.png'
 import jungleJump from './img/jungleJump.png'
+import hulu from './img/hulu.png'
 
 const Projects = ({ activeTab }) => {
   return (
@@ -61,10 +62,10 @@ const Projects = ({ activeTab }) => {
           </div>
         </div>
         <div className="reactProject">
-          <img src={quizApp} alt="" />
+          <img src={hulu} alt="" />
           <div className="projectsBtns">
-            <a target={'_blank'} href="https://cartoonquizapp.netlify.app">Quiz App</a>
-            <a target={'_blank'} href="https://github.com/darionjoness/ReactQuiz">Github</a>
+            <a target={'_blank'} href="https://darionhulurebuild.netlify.app/">Hulu Rebuild</a>
+            <a target={'_blank'} href="https://github.com/darionjoness/HuluRebuild">Github</a>
           </div>
         </div>
         <div className="reactProject">
