@@ -18,6 +18,9 @@ const Skills = ({ activeTab }) => {
                 <h2>Javascript</h2>
             </div>
             <div className="skillItem">
+                <h2>Typescript</h2>
+            </div>
+            <div className="skillItem">
                 <h2>React</h2>
             </div>
             <div className="skillItem">

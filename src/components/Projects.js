@@ -9,6 +9,7 @@ import emojiSearch from './img/emojiSearch.png'
 import monsterMaker from './img/monsterMaker.png'
 import jungleJump from './img/jungleJump.png'
 import hulu from './img/hulu.png'
+import cryptoPrice from './img/cryptoprice.png'
 
 const Projects = ({ activeTab }) => {
   return (
@@ -55,10 +56,10 @@ const Projects = ({ activeTab }) => {
           </div>
         </div>
         <div className="reactProject">
-          <img src={reactToDoList} alt="" />
+          <img src={cryptoPrice} alt="" />
           <div className="projectsBtns">
-            <a target={'_blank'} href="https://darionstodo.netlify.app">To Do List</a>
-            <a target={'_blank'} href="https://github.com/darionjoness/ReactToDoList">Github</a>
+            <a target={'_blank'} href="https://cryptopriceio.netlify.app/">Crypto Price App</a>
+            <a target={'_blank'} href="https://github.com/darionjoness/CryptoPriceApp">Github</a>
           </div>
         </div>
         <div className="reactProject">
